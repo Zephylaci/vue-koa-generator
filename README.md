@@ -6,9 +6,10 @@
 做这个纯粹是方便自己  
 不一样的地方：src重命名为client，存模板的文件夹重命名为views  
 添加了一个server文件夹，只做了koa最基本的配置  
+``` bash
 # npm run server 
 启动koa服务器 
-
+```
 纯前端部分和vue-cil一致  
 后端需要通过npm run server开启  
 
