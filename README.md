@@ -11,7 +11,7 @@
 启动koa服务器 
 ```
 纯前端部分和vue-cil一致  
-后端需要通过npm run server开启  
+后端需要通过npm run server开启(结合部分还没完成)  
 
 之后的课题，通过webpack给后端设置热更新  
 koa自身的完善，加入错误处理，和log之类的  
