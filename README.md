@@ -1,8 +1,19 @@
 # vue-koa-generator
 
-> 基于vue-cil的vue+koa 开发环境
-额外装了，less,axiox,cheerio 
+> 基于vue-cil的vue+koa 开发环境  
+额外装了，less,axiox,cheerio   
+基本结构和文件目录和vue-cil一致
+做这个纯粹是方便自己  
+不一样的地方：src重命名为client，存模板的文件夹重命名为views  
+添加了一个server文件夹，只做了koa最基本的配置  
+# npm run server 
+启动koa服务器 
 
+纯前端部分和vue-cil一致  
+后端需要通过npm run server开启  
+
+之后的课题，通过webpack给后端设置热更新  
+koa自身的完善，加入错误处理，和log之类的  
 
 ## Build Setup
 
